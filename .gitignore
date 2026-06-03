@@ -4,3 +4,11 @@ inkoopbeleid-vv-2027-2029.pdf
 downloads-page.html
 all-links.txt
 links-2027.txt
+
+# Tekst-extracties (scratch) en Python-cache
+gz.txt
+ggz.txt
+bijlage7.txt
+vv.txt
+nota-van-inlichtingen-2026/*.txt
+__pycache__/
