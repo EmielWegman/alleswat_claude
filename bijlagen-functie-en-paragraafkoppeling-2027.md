@@ -100,6 +100,23 @@ Dit document beschrijft per **PDF-bijlage**:
 
 ---
 
+## Bijlage 6 – Voorschrift zorgtoewijzing Wlz
+
+**Functie.** Bijlage 6 is het Voorschrift zorgtoewijzing: een door ZN opgesteld addendum bij de overeenkomst dat het volledige proces van zorgtoewijzing in de Wlz vastlegt. Het beschrijft hoe een klant na de Wlz-indicatie bij een zorgaanbieder terechtkomt en wie in de keten welke rol heeft (zorgkantoor, zorgaanbieder, onafhankelijke cliëntondersteuner). De bijlage behandelt de algemene uitgangspunten (toegang tot Wlz-zorg, rechtmatige en doelmatige inzet, declareren, informatie-uitwisseling in de keten), de cliëntondersteuning (incl. de rol van de OCO), het regionale zorgkantoor bij verhuizing van een klant en het wachtlijstbeheer met wachtstatussen en classificaties (o.a. 'urgent plaatsen' en 'actief plaatsen'). De aanbieder vindt hier de operationele spelregels om klanten aan te melden, toe te wijzen, te plaatsen en de bijbehorende administratie/berichtuitwisseling correct uit te voeren. Het voorschrift is daarmee de praktische onderlegger onder de persoonsvolgende bekostiging ("zorg volgt de klant") en het wachtlijst- en doorstroombeleid uit het inkoopbeleid. In het inkoopbeleid 2027-2029 staat Bijlage 6 vermeld met "volgt in december"; hier is de meest recente beschikbare versie opgenomen — **het Voorschrift zorgtoewijzing 2026** (addendum bij overeenkomst 2026, ZN, december 2025). De inhoud is jaarlijks vergelijkbaar; controleer bij publicatie de definitieve 2027-versie.
+
+**Thema's voor de aanbieder:** zorgtoewijzingsproces en aanmelding; toegang tot Wlz-zorg; wachtlijstbeheer, wachtstatus en classificatie; verhuizing van klanten tussen regio's; informatie-uitwisseling in de keten; cliëntondersteuning/OCO; rechtmatige en doelmatige inzet en declareren.
+
+**Aansluiting op paragrafen:**
+| Sector | Paragrafen |
+|---|---|
+| V&V | §7.8 (persoonsvolgende bekostiging – zorg volgt de klant); §4.4–§4.5 (toetsing nieuwe woonlocaties, voorkomen wachtlijsten); §6 (samenwerking/essentiële voorzieningen); §10.3 (addendum bij de overeenkomst) |
+| GZ | §3.4 (doorstroom door de keten); §4.1 (niemand tussen wal en schip); §4.4 (urgentie bepaalt plaatsing – wachtlijst); §5.8 (persoonsvolgende bekostiging); §8.3 (addendum bij de overeenkomst) |
+| GGZ | §2.2 (regionale doorstroom naar passende zorg); §4.6–§4.8 (doorstroom, regionale samenwerkingsafspraken, snellere passende plaatsing); §5.8 (persoonsvolgende bekostiging); §8.3 (addendum bij de overeenkomst) |
+
+> Let op: het Voorschrift zorgtoewijzing wordt in het inkoopbeleid niet per inhoudelijke paragraaf aangehaald; het is een uitvoeringsaddendum bij de overeenkomst dat de zorgtoewijzing, het wachtlijstbeheer en de cliëntondersteuning operationeel uitwerkt.
+
+---
+
 ## Bijlage 7 – Onderbouwing vertrektarieven Wlz 2027
 
 **Functie.** Bijlage 7 onderbouwt hoe de landelijke vertrektariefpercentages per cluster tot stand komen en vormt daarmee de inhoudelijke verantwoording onder het tariefbeleid. Zorgkantoren gebruiken één landelijk tariefmodel om transparant en doelmatig tot een vertrektarief per cluster te komen, dat het startpunt is voor de regionale tariefafspraken. De bijlage beschrijft welke databronnen worden gebruikt (Intrakoop-jaarverslagen, declaratiegegevens van alle zorgkantoren, NZa-maximumtarieven) en welke modelkeuzes worden gemaakt. De aanbieder vindt hier de uitleg achter het tariefpercentage dat in het inkoopbeleid (hoofdstuk Tarieven en volumes) als uitgangspunt wordt gehanteerd. Het inkoopbeleid verwijst er rechtstreeks naar en meldt dat uiterlijk 4 september 2026 een geactualiseerde versie van Bijlage 7 met de definitieve vertrektarieven wordt gepubliceerd. De bijlage is dus essentieel om te begrijpen hoe de geboden tarieven zijn berekend en onderbouwd. Bij Bijlage 7 horen de ondersteunende XLSX-bestanden 7a (leveringsvorm prestaties) en 7c (uitvraagformat declaratiedata), die hier buiten beschouwing blijven.
@@ -161,6 +178,6 @@ Dit document beschrijft per **PDF-bijlage**:
 ---
 
 ### Opmerkingen
-- **Bijlage 6 (Voorschrift zorgtoewijzing Wlz 2027)** is nog niet beschikbaar ("volgt in december") en is daarom niet opgenomen.
+- **Bijlage 6 (Voorschrift zorgtoewijzing Wlz 2027)** is in het inkoopbeleid aangekondigd als "volgt in december". Hier is de meest recente beschikbare versie opgenomen: het **Voorschrift zorgtoewijzing 2026**. Vervang dit door de 2027-versie zodra die is gepubliceerd.
 - De paragraafnummers verwijzen naar het regionale inkoopbeleid van de betreffende sector (versie 1.0, 1 juni 2026). Waar het beleid letterlijk naar een bijlage verwijst, is dat aangegeven met "verwijst naar".
 - Bijlage 3A en 3B verschillen alleen in looptijd (meerjarig 2027-2029 vs. eenjarig 2027); inhoudelijk zijn de contractvoorwaarden gelijk.
