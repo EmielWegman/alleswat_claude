@@ -177,6 +177,18 @@ Dit document beschrijft per **PDF-bijlage**:
 
 ---
 
+## OCO – Onafhankelijke cliëntondersteuning 2027-2028 *(apart inkoopkader, beknopt)*
+
+De OCO is een **eigen inkoopkader**, los van V&V/GZ/GGZ, met een eigen inkoopbeleid en eigen bijlagen. Kort samengevat:
+
+- **Inkoopbeleid OCO 2027-2028** (`oco/inkoopbeleid-oco-2027-2028.pdf`): beschrijft hoe het zorgkantoor onafhankelijke cliëntondersteuning inkoopt — doelstelling en afbakening van (O)CO, de dienstenstructuur en methodieken, de samenwerking en rolverdeling tussen zorgkantoren, OCO-aanbieders, gemeenten en ketenpartijen, en de eisen aan OCO-aanbieders (geschiktheid, betaalbaarheid, data/registratie, bedrijfsvoering, onderaannemers). Hier vindt een OCO-aanbieder waaraan zijn dienstverlening en organisatie moeten voldoen.
+- **Bijlage 2 – Bestuursverklaring OCO** (`oco/bijlage-2-bestuursverklaring.pdf`): het inschrijfdocument waarmee de OCO-aanbieder verklaart te voldoen aan de eisen en dat geen uitsluitingsgronden gelden (zelfde functie als Bijlage 4A in de Wlz-zorginkoop, maar voor OCO).
+- **Bijlage 3 – Overeenkomst OCO** (`oco/bijlage-3-overeenkomst.pdf`): de modelovereenkomst tussen zorgkantoor en OCO-aanbieder met de contractuele rechten en plichten.
+
+Raakvlak met de Wlz-zorginkoop: cliëntondersteuning komt terug in het **Voorschrift zorgtoewijzing (Bijlage 6)** bij de rol van de onafhankelijke cliëntondersteuner in het zorgtoewijzingsproces.
+
+---
+
 ### Opmerkingen
 - **Bijlage 6 (Voorschrift zorgtoewijzing Wlz 2027)** is in het inkoopbeleid aangekondigd als "volgt in december". Hier is de meest recente beschikbare versie opgenomen: het **Voorschrift zorgtoewijzing 2026**. Vervang dit door de 2027-versie zodra die is gepubliceerd.
 - De paragraafnummers verwijzen naar het regionale inkoopbeleid van de betreffende sector (versie 1.0, 1 juni 2026). Waar het beleid letterlijk naar een bijlage verwijst, is dat aangegeven met "verwijst naar".
